@@ -33,7 +33,7 @@ public class SearchService {
 //    	termsQuery(indexName);
     	
     	//匹配查询
-//    	matchAllQuery(indexName);
+    	matchAllQuery(indexName);
     	matchQuery(indexName);
 //    	matchPhraseQuery(indexName);
 //    	matchMultiQuery(indexName);
