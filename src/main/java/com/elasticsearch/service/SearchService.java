@@ -34,7 +34,7 @@ public class SearchService {
     	
     	//匹配查询
 //    	matchAllQuery(indexName);
-//    	matchQuery(indexName);
+    	matchQuery(indexName);
 //    	matchPhraseQuery(indexName);
 //    	matchMultiQuery(indexName);
     	
